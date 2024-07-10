@@ -1,3 +1,28 @@
 to-do-list/.snowpack
 to-do-list/build
 to-do-list/node_modules
+
+# Logs
+hangman/hangman/logs
+hangman/hangman/*.log
+hangman/hangman/npm-debug.log*
+hangman/hangman/yarn-debug.log*
+hangman/hangman/yarn-error.log*
+hangman/hangman/pnpm-debug.log*
+hangman/hangman/lerna-debug.log*
+
+hangman/hangman/node_modules
+hangman/hangman/dist
+hangman/hangman/dist-ssr
+hangman/hangman/*.local
+
+# Editor directories and files
+hangman/hangman/.vscode/*
+hangman/hangman/!.vscode/extensions.json
+hangman/hangman/.idea
+hangman/hangman/.DS_Store
+hangman/hangman/*.suo
+hangman/hangman/*.ntvs*
+hangman/hangman/*.njsproj
+hangman/hangman/*.sln
+hangman/hangman/*.sw?
